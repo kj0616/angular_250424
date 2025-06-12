@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
+    "@angular-devkit/build-angular": "19.2.15",
     "@angular/cli": "file:../../node_modules/@angular/cli",
     "@angular/animations": "file:../../dist/packages-dist/animations",
     "@angular/common": "file:../../dist/packages-dist/common",
