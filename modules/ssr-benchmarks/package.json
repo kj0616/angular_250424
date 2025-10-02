@@ -23,6 +23,6 @@
     "rxjs": "file:../../node_modules/rxjs",
     "typescript": "file:../../node_modules/typescript",
     "http-server": "file:../../node_modules/http-server",
-    "patch-package": "file:../../node_modules/patch-package"
+    "patch-package": "8.0.1"
   }
 }
