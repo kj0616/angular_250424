@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
+    "@angular-devkit/build-angular": "20.3.7",
     "@angular/cli": "file:../../node_modules/@angular/cli",
     "@angular/animations": "file:../../dist/packages-dist/animations",
     "@angular/common": "file:../../dist/packages-dist/common",
@@ -19,7 +19,7 @@
     "@angular/platform-browser-dynamic": "file:../../dist/packages-dist/platform-browser-dynamic",
     "@angular/platform-server": "file:../../dist/packages-dist/platform-server",
     "@angular/router": "file:../../dist/packages-dist/router",
-    "@angular/ssr": "file:../../node_modules/@angular/ssr",
+    "@angular/ssr": "19.2.18",
     "rxjs": "file:../../node_modules/rxjs",
     "typescript": "file:../../node_modules/typescript",
     "http-server": "file:../../node_modules/http-server",
