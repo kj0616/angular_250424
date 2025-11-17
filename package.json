@@ -48,7 +48,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@angular-devkit/build-angular": "20.0.0-next.8",
+    "@angular-devkit/build-angular": "20.0.0",
     "@angular-devkit/core": "20.0.0-next.8",
     "@angular-devkit/schematics": "20.0.0-next.8",
     "@angular/build": "20.0.0-next.8",
